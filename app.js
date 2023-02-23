@@ -9,6 +9,7 @@ const temperature = document.getElementById("temperature")
 const feelsLike = document.getElementById("feels-like")
 const city = document.getElementById("city")
 const weatherDescription = document.getElementById("weather-description")
+const forecastWrapper = document.getElementById("forecast-wrapper");
 
 const caTemperature = document.getElementById("jp-temperature")
 const caCity = document.getElementById("jp-city")
